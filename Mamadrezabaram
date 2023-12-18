@@ -7,3 +7,4 @@ vless://SvnTeam@mtn.VPNPROSEC.com:2087?mode=gun&security=tls&encryption=none&typ
 vless://4cc8a582-6ce7-497d-8f87-1254b21bf238@detiliti.filterchy.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#%F0%9D%90%A3%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%F0%93%84%82%F0%93%86%83+%40CNFINGS
 vless://52e194ba-cdf5-4a7d-d146-d8b06f8a698b@51.75.91.144:23300?mode=gun&security=none&encryption=none&type=grpc&serviceName=google#%F0%9D%90%A3%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%F0%93%84%82%F0%93%86%83+%40CNFINGS
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#%F0%9D%90%A3%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%F0%93%84%82%F0%93%86%83+%40CNFINGS
+vless://SvnTeam@mtn.VPNPROSEC.com:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Grm.gelofenshop.online#%F0%9D%90%A3%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%F0%93%84%82%F0%93%86%83+%40CNFINGS
